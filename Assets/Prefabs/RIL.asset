@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: RIL
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4853111717423383595
+  m_GuidHigh: 13859457856593704630
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4950788103599116906
+      m_GuidHigh: 5217891491825739950
+    m_SerializedTextureGuid:
+      m_GuidLow: 12390630854718757219
+      m_GuidHigh: 865172029371517929
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: batman
+    m_Texture: {fileID: 2800000, guid: 2e8199635d1dabf4e90b4b7860b5010c, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5601411010825238126
+      m_GuidHigh: 345984172596533406
+    m_SerializedTextureGuid:
+      m_GuidLow: 17313220585056100287
+      m_GuidHigh: 4419094473097231560
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: car
+    m_Texture: {fileID: 2800000, guid: 8a3fdfbfea64f044c83cda8902c7533d, type: 3}
